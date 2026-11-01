@@ -1,0 +1,14 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# Virtual machine disks and snapshots (do not commit VM images)
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+Snapshots/
